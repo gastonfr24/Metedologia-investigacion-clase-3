@@ -1,2 +1,3 @@
-👋 Hi, I’m @gastonfr24
+👋 Hi, I’m @gastonfr24 
+👀 I’m interested in Data Science & AI 
 
